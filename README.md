@@ -14,5 +14,5 @@ The data stored in the CSV files are formatted in the following way:
 |  ...  |  ...  |  ...  |  ...  |  ...  |  ...  |
 
 | motor speeds<sub>1-4</sub> [rpm] | motor voltage<sub>1-4</sub> [V] | motor current<sub>1-4</sub> [A] |
-|:-----:|:-----:|:-----:|
-|  ...  |  ...  |  ...  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|  ...  |  ...  |  ...  |  ...  |  ...  |  ...  |
