@@ -5,6 +5,6 @@ Physics Informed Machine Learning" by Aurel X. Appius are uploaded here and open
 
 The data stored in the CSV files are formatted in the following way:
 
-| x [m] | y [m] | z [m] | v ~x~ [m/s] | v ~y~ [m/s] | v ~z~ [m/s] |
+| x [m] | y [m] | z [m] | v <sub>x</sub> [m/s] | v <sub>y</sub> [m/s] | v <sub>z</sub> [m/s] |
 |:-----:|:-----:|:-----:|:---------:|:---------:|:---------:|
 |  ...  |  ...  |  ...  |    ...    |    ...    |    ...    |
