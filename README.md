@@ -9,7 +9,7 @@ The data stored in the CSV files are formatted in the following way:
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |  ...  |  ...  |  ...  |  ...  |  ...  |  ...  |
 
-| roll [deg] | pitch [deg] | yaw [deg]  | $\omega$<sub>roll<sub> [rad/s] | $\omega$<sub>pitch<sub> [rad/s] | $\omega$<sub>yaw<sub> [rad/s]  |
+| roll [deg] | pitch [deg] | yaw [deg]  | $\omega$<sub>roll</sub> [rad/s] | $\omega$<sub>pitch</sub> [rad/s] | $\omega$<sub>yaw</sub> [rad/s]  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |  ...  |  ...  |  ...  |  ...  |  ...  |  ...  |
 
